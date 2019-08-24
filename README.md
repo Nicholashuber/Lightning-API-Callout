@@ -6,7 +6,7 @@ The service we are interfacing with is a foreign exchange rates service that sen
 We will display the response data on our lightning component.<br></p>
 
 
-
+<h2>Setup:</h2>
 First you'll need to get yourself an API key here: https://fixer.io/<br>
 Authorize the endpoint URL For Apex Callout.
 For Authorize the endpoint URL: http://data.fixer.io
