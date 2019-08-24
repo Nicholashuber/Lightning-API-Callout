@@ -1,4 +1,4 @@
-<aura:component controller="LightningCallout_Controller" implements="flexipage:availableForAllPageTypes,force:hasRecordId">
+<aura:component controller="Api_Callout_Controller" implements="flexipage:availableForAllPageTypes,force:hasRecordId">
     <aura:attribute name="response" type="Map"/>
     <aura:attribute name="ListOfCurrency" type="String[]"/>
     
