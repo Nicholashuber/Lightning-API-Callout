@@ -7,9 +7,9 @@ We will display the response data on our lightning component.<br></p>
 
 
 
-
+First you'll need to get yourself an API key here: https://fixer.io/<br>
 Authorize the endpoint URL For Apex Callout.
-For Authorize the endpoint URL -: http://data.fixer.io
+For Authorize the endpoint URL: http://data.fixer.io
 
 <h2>How to:</h2>
 From Setup, enter Remote Site Settings in the Quick Find box<br>
