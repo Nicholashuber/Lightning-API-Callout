@@ -1,4 +1,12 @@
 # Lightning-API-Callout
+<h2>Summary</h2>
+<p>In this example we send an HTTP request from our apex class code initiated from a button on our lightning component, and then receive the response from the external web service.<br>
+
+The service we are interfacing with is a foreign exchange rates service that sends back the response in JSON format.<br>
+We will display the response data on our lightning component.<br></p>
+
+
+
 
 Authorize the endpoint URL For Apex Callout.
 For Authorize the endpoint URL -: http://data.fixer.io
@@ -12,7 +20,7 @@ For the remote site URL, enter http://data.fixer.io  ,This URL authorizes all su
 Make sure your Active checkbox is Equal to True.<br>
 Click Save.
 
-<h2>Summary</h2>
+<h2>Code Summary</h2>
 In apex class controller we have a getCalloutResponseContents @AuraEnabled class method with one parameter url as string type. <br>
 The Return type is Map type where String is key and object as value of the Map.<br>
 In getCalloutResponseContents Method ,first we created a new HTTP object. and set the EndPoint url with url parameter.<br>
