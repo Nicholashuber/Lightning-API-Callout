@@ -8,7 +8,7 @@ From Setup, enter Remote Site Settings in the Quick Find box<br>
 Click on the Remote Site Settings.<br>
 Click New Remote Site.<br>
 For the remote site name, enter foreign_exchange_rates.<br>
-For the remote site URL, enter http://data.fixer.io  ,This URL authorizes all subfolders for the endpoint, like http://api.fixer.io/latest<br>
+For the remote site URL, enter http://data.fixer.io  ,This URL authorizes all subfolders for the endpoint, like http://data.fixer.io/latest<br>
 Make sure your Active checkbox is Equal to True.<br>
 Click Save.
 
